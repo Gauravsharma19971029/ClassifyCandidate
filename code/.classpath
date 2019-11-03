@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="classifycandidatepro/src/main/java"/>
+	<classpathentry kind="src" path="classifycandidatepro/src/test/java"/>
+	<classpathentry kind="lib" path="classifycandidatepro/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="classifycandidatepro/target/classifycandidatepro-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="classifycandidatepro/target/serviceproviderapp-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classifycandidatepro/target/classes"/>
+</classpath>
